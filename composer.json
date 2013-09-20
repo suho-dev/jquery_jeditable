@@ -1,0 +1,17 @@
+{
+        "name": "suho-forked/jeditable",
+        "description": "jEditable version that uses ", 
+        "homepage": "http://www.appelsiini.net/projects/jeditable",
+        "author": "Mika Tuupola", 
+        "prefer-stable": true,
+    "require": {
+        "robloach/component-installer": "*"
+    },
+    "extra": {
+        "component": {
+            "files": [
+                "*.js"
+            ]
+        }
+    }
+}
